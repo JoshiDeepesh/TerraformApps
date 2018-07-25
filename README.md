@@ -5,16 +5,10 @@ Module based implementation of terraform is available for use.
 
 In order to create a HDP2.6 cluster, follow steps given below
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
+1.)
 
+Steps will be added soon, work is still in progress...
+
+But, if you are curious why not give it a try??
 
 Any suggestions for improvement are welcome. :-)
-
